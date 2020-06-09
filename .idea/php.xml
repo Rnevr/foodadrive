@@ -112,5 +112,5 @@
       <path value="$PROJECT_DIR$/my_project_foodadrive/vendor/symfony/orm-pack" />
     </include_path>
   </component>
-  <component name="PhpProjectSharedConfiguration" php_language_level="7.3" />
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
 </project>
